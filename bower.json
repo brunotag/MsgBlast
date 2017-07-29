@@ -1,0 +1,7 @@
+{
+	"name": "milligram-starter",
+	"private": "true",
+	"dependencies": {
+		"milligram": "file:///C:/Startup/milligram-1.3.0-bruno/.git"
+	}
+}
