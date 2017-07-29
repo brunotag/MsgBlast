@@ -1,0 +1,23 @@
+table.balanced tr{
+	line-height: 1rem;
+}
+
+table.balanced td{
+	text-align: center;
+    vertical-align: middle;
+}
+
+table.balanced td:first-child{
+	text-align: left;
+    padding-left: 10%;
+}
+
+table.balanced td:last-child{
+	text-align: right;
+    padding-right: 10%;
+}
+
+table.delivery tr.delivered{
+    color: #999999;
+    font-style: oblique;
+}

@@ -9,11 +9,15 @@ body {
 }
 
 #home {
-	background: #f4f5f6;
+	background: #fff;
 	height: 100vh;
 	position: relative;
 	max-height: 100vh;
 	min-width: 100vw;
+}
+
+img.icon{
+	width: 1.3em;
 }
 
 .logo {
@@ -21,4 +25,14 @@ body {
 	position: absolute;
 	top: 50%;
 	transform: translate(-50%, -50%);
+}
+
+img.circle {
+    border-radius: 50%;
+}
+
+img.face {
+    border-radius: 50%;
+	width: 3em;
+	height: 3em;
 }
