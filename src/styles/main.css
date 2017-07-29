@@ -16,23 +16,39 @@ body {
 	min-width: 100vw;
 }
 
-img.icon{
+.img-icon{
 	width: 1.3em;
 }
 
-.logo {
+.div-top {
+	left: 50%;
+	position: absolute;
+	top: 0%;
+	display: block;
+	transform: translate(-0%, -50%);
+}
+
+.div-centered {
 	left: 50%;
 	position: absolute;
 	top: 50%;
+	display: block;
 	transform: translate(-50%, -50%);
 }
 
-img.circle {
+.img-circle {
     border-radius: 50%;
 }
 
-img.face {
+.img-face {
     border-radius: 50%;
 	width: 3em;
 	height: 3em;
+}
+
+.button-large {
+  font-size: 1.4rem;
+  height: 4.5rem;
+  line-height: 4.5rem;
+  padding: 0 2rem;
 }

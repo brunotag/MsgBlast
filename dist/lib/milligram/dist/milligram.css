@@ -1,3 +1,11 @@
+/*!
+ * Milligram v1.3.0
+ * https://milligram.github.io
+ *
+ * Copyright (c) 2017 CJ Patoilo
+ * Licensed under the MIT license
+ */
+
 *,
 *:after,
 *:before {
@@ -34,8 +42,8 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-  background-color: #ff626c;
-  border: 0.1rem solid #ff626c;
+  background-color: #9b4dca;
+  border: 0.1rem solid #9b4dca;
   border-radius: .4rem;
   color: #fff;
   cursor: pointer;
@@ -85,8 +93,8 @@ input[type='reset'][disabled]:focus,
 input[type='reset'][disabled]:hover,
 input[type='submit'][disabled]:focus,
 input[type='submit'][disabled]:hover {
-  background-color: #ff626c;
-  border-color: #ff626c;
+  background-color: #9b4dca;
+  border-color: #9b4dca;
 }
 
 .button.button-outline,
@@ -95,7 +103,7 @@ input[type='button'].button-outline,
 input[type='reset'].button-outline,
 input[type='submit'].button-outline {
   background-color: transparent;
-  color: #ff626c;
+  color: #9b4dca;
 }
 
 .button.button-outline:focus, .button.button-outline:hover,
@@ -122,7 +130,7 @@ input[type='reset'].button-outline[disabled]:hover,
 input[type='submit'].button-outline[disabled]:focus,
 input[type='submit'].button-outline[disabled]:hover {
   border-color: inherit;
-  color: #ff626c;
+  color: #9b4dca;
 }
 
 .button.button-clear,
@@ -132,7 +140,7 @@ input[type='reset'].button-clear,
 input[type='submit'].button-clear {
   background-color: transparent;
   border-color: transparent;
-  color: #ff626c;
+  color: #9b4dca;
 }
 
 .button.button-clear:focus, .button.button-clear:hover,
@@ -158,7 +166,7 @@ input[type='reset'].button-clear[disabled]:focus,
 input[type='reset'].button-clear[disabled]:hover,
 input[type='submit'].button-clear[disabled]:focus,
 input[type='submit'].button-clear[disabled]:hover {
-  color: #ff626c;
+  color: #9b4dca;
 }
 
 code {
@@ -172,7 +180,7 @@ code {
 
 pre {
   background: #f4f5f6;
-  border-left: 0.3rem solid #ff626c;
+  border-left: 0.3rem solid #9b4dca;
   overflow-y: hidden;
 }
 
@@ -220,7 +228,7 @@ input[type='text']:focus,
 input[type='url']:focus,
 textarea:focus,
 select:focus {
-  border-color: #ff626c;
+  border-color: #9b4dca;
   outline: 0;
 }
 
@@ -433,7 +441,7 @@ input[type='radio'] {
 }
 
 a {
-  color: #ff626c;
+  color: #9b4dca;
   text-decoration: none;
 }
 

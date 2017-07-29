@@ -1,6 +1,6 @@
 {
   "name": "milligram",
-  "version": "1.3.0-bruno",
+  "version": "1.3.0",
   "description": "A minimalist CSS framework.",
   "homepage": "https://milligram.github.io",
   "repository": "milligram/milligram",
@@ -48,13 +48,13 @@
   "dependencies": {
     "normalize.css": "~5.0.0"
   },
-  "_release": "1.3.0-bruno",
+  "_release": "1.3.0",
   "_resolution": {
     "type": "version",
-    "tag": "1.3.0-bruno",
-    "commit": "088a0d325050a72264860f724cf2ee915ce04c06"
+    "tag": "v1.3.0",
+    "commit": "fc0ec57b4de9b9641dead946517f51a4bbc328a0"
   },
-  "_source": "file:///C:/Startup/milligram-1.3.0-bruno/.git",
+  "_source": "https://git@github.com/brunotag/milligram.git",
   "_target": "*",
-  "_originalSource": "file:///C:/Startup/milligram-1.3.0-bruno/.git"
+  "_originalSource": "git+https://git@github.com/brunotag/milligram.git"
 }
