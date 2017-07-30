@@ -1,5 +1,5 @@
 {
-	"name": "msgBlast",
+	"name": "msg-blast",
 	"version": "0.0.1",
 	"description": "Blast your message across every platform with one click.",
 	"homepage": "http://msgblast.co",
@@ -11,7 +11,7 @@
 		"node": ">=4"
 	},
 	"dependencies": {
-		"milligram": "git+https://git@github.com/brunotag/milligram.git"
+		"milligram-bruno": "git+https://git@github.com/brunotag/milligram.git#v1.3.0"
 	},
 	"devDependencies": {
 		"bower": "^1.8.0",

@@ -1,9 +1,9 @@
 {
-	"name": "milligram",
+	"name": "milligram-bruno",
 	"version": "1.3.0",
 	"description": "A minimalist CSS framework.",
 	"homepage": "https://milligram.github.io",
-	"repository": "milligram/milligram",
+	"repository": "brunotag/milligram",
 	"license": "MIT",
 	"author": "CJ Patoilo <cjpatoilo@gmail.com>",
 	"main": "dist/milligram.css",

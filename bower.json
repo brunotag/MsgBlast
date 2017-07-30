@@ -1,7 +1,7 @@
 {
-	"name": "milligram-starter",
+	"name": "msg-blast",
 	"private": "true",
 	"dependencies": {
-		"milligram": "git+https://git@github.com/brunotag/milligram.git"
+		"milligram-bruno": "git+https://git@github.com/brunotag/milligram.git#v1.3.0"
 	}
 }
