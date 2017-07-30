@@ -20,10 +20,10 @@ body {
 	width: 1.3em;
 }
 
-.div-top {
+.div-bottom {
 	left: 50%;
 	position: absolute;
-	top: 0%;
+	top: 100%;
 	display: block;
 	transform: translate(-0%, -50%);
 }
