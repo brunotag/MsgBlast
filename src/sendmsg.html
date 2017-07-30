@@ -47,7 +47,12 @@
                                     <input type="checkbox" id="confirmField" disabled="true">
                                     <label class="label-inline" for="confirmField">Send a copy to yourself</label>
                                 </div>
-                                <input class="button-primary" type="button" value="Blast!" onclick="javascript:sendMessage();">
+								<div>
+                                	<input class="button-primary" type="button" value="Blast!" onclick="javascript:sendMessage();">
+								</div>
+								<div id="error" style="visibility:hidden;color:red;font-weight:bold">
+									<p>Our service is temporary offline, sorry for the inconvenience.</p>
+								</div>								
                             </div>
                         </fieldset>
                     </form>
